@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/filmtwine/static/css/main.04cbb8c2.chunk.css",
+    "main.js": "/filmtwine/static/js/main.841eef34.chunk.js",
+    "main.js.map": "/filmtwine/static/js/main.841eef34.chunk.js.map",
+    "runtime-main.js": "/filmtwine/static/js/runtime-main.380b7d9c.js",
+    "runtime-main.js.map": "/filmtwine/static/js/runtime-main.380b7d9c.js.map",
+    "static/css/2.8636b49e.chunk.css": "/filmtwine/static/css/2.8636b49e.chunk.css",
+    "static/js/2.f4e9d3cf.chunk.js": "/filmtwine/static/js/2.f4e9d3cf.chunk.js",
+    "static/js/2.f4e9d3cf.chunk.js.map": "/filmtwine/static/js/2.f4e9d3cf.chunk.js.map",
+    "index.html": "/filmtwine/index.html",
+    "static/css/2.8636b49e.chunk.css.map": "/filmtwine/static/css/2.8636b49e.chunk.css.map",
+    "static/css/main.04cbb8c2.chunk.css.map": "/filmtwine/static/css/main.04cbb8c2.chunk.css.map",
+    "static/js/2.f4e9d3cf.chunk.js.LICENSE.txt": "/filmtwine/static/js/2.f4e9d3cf.chunk.js.LICENSE.txt",
+    "static/media/Bell.3e68d629.svg": "/filmtwine/static/media/Bell.3e68d629.svg",
+    "static/media/Briefcase.09e9fa27.svg": "/filmtwine/static/media/Briefcase.09e9fa27.svg",
+    "static/media/Close.52ab06e0.svg": "/filmtwine/static/media/Close.52ab06e0.svg",
+    "static/media/Coversation.209af03e.svg": "/filmtwine/static/media/Coversation.209af03e.svg",
+    "static/media/Dashboard.de9aef59.svg": "/filmtwine/static/media/Dashboard.de9aef59.svg",
+    "static/media/Filmmakers.d9b2493e.svg": "/filmtwine/static/media/Filmmakers.d9b2493e.svg",
+    "static/media/Films.32494973.svg": "/filmtwine/static/media/Films.32494973.svg",
+    "static/media/FilmtwineMobile.0ffaf126.svg": "/filmtwine/static/media/FilmtwineMobile.0ffaf126.svg",
+    "static/media/Filmtwinelogo.1b1407ea.svg": "/filmtwine/static/media/Filmtwinelogo.1b1407ea.svg",
+    "static/media/Hamburger.b8383e70.svg": "/filmtwine/static/media/Hamburger.b8383e70.svg",
+    "static/media/Paper.0c376563.svg": "/filmtwine/static/media/Paper.0c376563.svg",
+    "static/media/Pricing.afff8abd.svg": "/filmtwine/static/media/Pricing.afff8abd.svg",
+    "static/media/Questioncircle.46887515.svg": "/filmtwine/static/media/Questioncircle.46887515.svg",
+    "static/media/Search.022b0c9a.svg": "/filmtwine/static/media/Search.022b0c9a.svg",
+    "static/media/Settings.234d842e.svg": "/filmtwine/static/media/Settings.234d842e.svg",
+    "static/media/Sort.ee33f072.svg": "/filmtwine/static/media/Sort.ee33f072.svg",
+    "static/media/Sortdown.f1431995.svg": "/filmtwine/static/media/Sortdown.f1431995.svg",
+    "static/media/Sortup.b218924f.svg": "/filmtwine/static/media/Sortup.b218924f.svg",
+    "static/media/Target.4d155e31.svg": "/filmtwine/static/media/Target.4d155e31.svg",
+    "static/media/Team.a2c630f1.svg": "/filmtwine/static/media/Team.a2c630f1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.380b7d9c.js",
+    "static/css/2.8636b49e.chunk.css",
+    "static/js/2.f4e9d3cf.chunk.js",
+    "static/css/main.04cbb8c2.chunk.css",
+    "static/js/main.841eef34.chunk.js"
+  ]
+}
