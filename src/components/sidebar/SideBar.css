@@ -1,0 +1,83 @@
+.pro-menu-item h4 {
+    color: #99A4B1;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 1.08px;
+    line-height: 20px;
+    padding: 20px 35px 12px 20px;
+    margin-bottom: 0;
+}
+
+.pro-sidebar .pro-menu .pro-menu-item>.pro-inner-item>.pro-icon-wrapper {
+    height: 16px;
+    line-height: 16px;
+}
+
+.pro-sidebar .pro-menu .pro-menu-item>.pro-inner-item {
+    padding: 13px 20px 12px 20px;
+}
+
+.pro-sidebar .pro-menu {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.pro-sidebar .pro-menu .pro-menu-item>.pro-inner-item.active {
+    border-radius: 4px;
+    background-color: #FF6C61;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 20px;
+    text-decoration: none;
+    width: 215px;
+    padding-right: 0;
+    margin-left: 20px;
+    padding-left: 0;
+}
+
+.close-btn {
+    padding: 30px 20px;
+}
+
+.pro-sidebar>.pro-sidebar-inner>.pro-sidebar-layout .pro-sidebar-content {
+    flex-grow: 0.4;
+}
+
+.pro-sidebar>.pro-sidebar-inner>.pro-sidebar-layout .pro-sidebar-header {
+    border-bottom: 0 none;
+}
+
+.copyright {
+    margin-left: 14px;
+    margin-top: 17px;
+}
+
+.copyright hr {
+    height: 1.2px;
+    background-color: #3F4457;
+    margin-bottom: 16px;
+    display: block;
+}
+
+.copyright h6 {
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.copyright p {
+    color: #99A4B1;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 16px;
+    width: 200px;
+}
+
+.pro-sidebar-footer {
+    margin-top: 250px;
+}

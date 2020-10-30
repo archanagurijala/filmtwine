@@ -1,0 +1,85 @@
+.margin10 {
+    margin: 10px;
+}
+.margin20 {
+    margin: 20px;
+}
+.margin30 {
+    margin: 30px;
+}
+.margin40 {
+    margin: 40px;
+}
+.margin50 {
+    margin: 50px;
+}
+.margin25 {
+    margin: 25px;
+}
+
+.padding10 {
+    padding: 10px;
+}
+.padding20 {
+    padding: 20px;
+}
+.padding30 {
+    padding: 30px;
+}
+.padding40 {
+    padding: 40px;
+}
+.padding50 {
+    padding: 50px;
+}
+.padding25 {
+    padding: 25px;
+}
+
+.noLeftMargin {
+    margin-left: 0;
+}
+.noRightMargin {
+    margin-right: 0;
+}
+.noTopMargin {
+    margin-top: 0;
+}
+.noBottomMargin {
+    margin-right: 0;
+}
+.noSideMargin {
+    margin-left: 0;
+    margin-right: 0;
+}
+.onlyLeftMargin {
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.onlyRightMargin {
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.onlyBottomMargin {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
+
+.block {
+    display: block;
+}
+
+.marginBottomMore {
+    margin-bottom: 237px;
+}
+
+.badge-danger {
+    background-color: #FF6C61;
+}
+
+.display-flex {
+    display: flex;
+}
