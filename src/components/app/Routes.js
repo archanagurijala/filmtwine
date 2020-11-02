@@ -27,7 +27,7 @@ export default class Routes extends Component {
         exact: false,
         component: Main.Filmmakers
       }, {
-        path: '/Film',
+        path: '/filmtwine',
         exact: false,
         component: Main.FilmContent
       }, {
